@@ -1,0 +1,7 @@
+F:\Self-Learning\CodingPractise\Plant_Growth\Plant_Growth\bin\Debug\Plant_Growth.exe.config
+F:\Self-Learning\CodingPractise\Plant_Growth\Plant_Growth\bin\Debug\Plant_Growth.exe
+F:\Self-Learning\CodingPractise\Plant_Growth\Plant_Growth\bin\Debug\Plant_Growth.pdb
+F:\Self-Learning\CodingPractise\Plant_Growth\Plant_Growth\obj\Debug\Plant_Growth.csprojResolveAssemblyReference.cache
+F:\Self-Learning\CodingPractise\Plant_Growth\Plant_Growth\obj\Debug\Plant_Growth.csproj.CoreCompileInputs.cache
+F:\Self-Learning\CodingPractise\Plant_Growth\Plant_Growth\obj\Debug\Plant_Growth.exe
+F:\Self-Learning\CodingPractise\Plant_Growth\Plant_Growth\obj\Debug\Plant_Growth.pdb

@@ -19,48 +19,19 @@ namespace LongestDigitsPrefix
 
         private static string longestDigitsPrefix(string inputString)
         {
-            Regex onlyNumbers = new Regex("^[0-9]+$");
-            Regex onlyNonNumbers = new Regex("[\\D]");
-            Regex onlyAlphabet = new Regex("^[a-zA-Z]+$");
-            List<string> chunks = new List<string>();
-            string temp = string.Empty;
-            if (onlyNumbers.IsMatch(inputString))
+            string result = string.Empty;
+            for (int i = 0; i< inputString.Length;i++ )
             {
-               // return inputString;
-            }
-            else if (onlyAlphabet.IsMatch(inputString))
-            {
-                 return null;
-            }
-            else
-            {
-                for(int i=0;i<inputString.Length;i++)
+                if(Char.IsDigit(inputString[i]))
                 {
-                    while(i < inputString.Length && onlyNumbers.IsMatch(inputString[i].ToString()))
-                    {
-                        temp += inputString[i];
-                        i++;
-                    }
-                    if(temp!=string.Empty)
-                    {
-                        chunks.Add(temp);
-                        temp = string.Empty;
-                    }
-                    while (i < inputString.Length && onlyNonNumbers.IsMatch(inputString[i].ToString()))
-                    {
-                        temp += inputString[i];
-                        i++;
-                    }
-                    if (temp != string.Empty)
-                    {
-                        chunks.Add(temp);
-                        temp = string.Empty;
-                    }
-                    i--;
+                    result += inputString[i];
+                }
+                else
+                {
+                    return result;
                 }
             }
-            return null;
-
+            return result;
         }
     }
 }

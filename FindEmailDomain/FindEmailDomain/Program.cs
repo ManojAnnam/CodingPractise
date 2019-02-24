@@ -16,8 +16,9 @@ namespace FindEmailDomain
 
         private static string findEmailDomain(string address)
         {
-            int index = address.LastIndexOf('@', 0, 1);
-            return null;
+            int index = address.LastIndexOf('@');
+            return address.Substring(index + 1);
+            
         }
     }
 }

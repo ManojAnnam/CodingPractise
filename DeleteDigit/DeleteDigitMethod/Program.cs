@@ -10,16 +10,10 @@ namespace DeleteDigitMethod
     {
         static void Main(string[] args)
         {
-            int input = Convert.ToInt32(Console.ReadLine());
-            int result = DeleteDigit(input);
-        }
-
-        private static int DeleteDigit(int input)
-        {
-            string s = input.ToString();
-            int[] ar = s.Select(c => Convert.ToInt32(c.ToString())).ToArray();
-
-            return 0;
+            MaximumNumberFinder maximumNumberFinder = new MaximumNumberFinder(Convert.ToInt32(Console.ReadLine()));
+            int result = maximumNumberFinder.DeleteDigit();
+            Console.WriteLine(result);
+            Console.ReadLine();
         }
     }
 }

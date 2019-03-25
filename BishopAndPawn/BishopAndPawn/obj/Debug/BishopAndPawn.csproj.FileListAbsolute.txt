@@ -1,0 +1,7 @@
+F:\Self-Learning\CodingPractise\BishopAndPawn\BishopAndPawn\bin\Debug\BishopAndPawn.exe.config
+F:\Self-Learning\CodingPractise\BishopAndPawn\BishopAndPawn\bin\Debug\BishopAndPawn.exe
+F:\Self-Learning\CodingPractise\BishopAndPawn\BishopAndPawn\bin\Debug\BishopAndPawn.pdb
+F:\Self-Learning\CodingPractise\BishopAndPawn\BishopAndPawn\obj\Debug\BishopAndPawn.csprojResolveAssemblyReference.cache
+F:\Self-Learning\CodingPractise\BishopAndPawn\BishopAndPawn\obj\Debug\BishopAndPawn.csproj.CoreCompileInputs.cache
+F:\Self-Learning\CodingPractise\BishopAndPawn\BishopAndPawn\obj\Debug\BishopAndPawn.exe
+F:\Self-Learning\CodingPractise\BishopAndPawn\BishopAndPawn\obj\Debug\BishopAndPawn.pdb

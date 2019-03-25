@@ -1,0 +1,7 @@
+F:\Self-Learning\CodingPractise\LongestDigitsPrefix\LongestDigitsPrefix\bin\Debug\LongestDigitsPrefix.exe.config
+F:\Self-Learning\CodingPractise\LongestDigitsPrefix\LongestDigitsPrefix\bin\Debug\LongestDigitsPrefix.exe
+F:\Self-Learning\CodingPractise\LongestDigitsPrefix\LongestDigitsPrefix\bin\Debug\LongestDigitsPrefix.pdb
+F:\Self-Learning\CodingPractise\LongestDigitsPrefix\LongestDigitsPrefix\obj\Debug\LongestDigitsPrefix.csprojResolveAssemblyReference.cache
+F:\Self-Learning\CodingPractise\LongestDigitsPrefix\LongestDigitsPrefix\obj\Debug\LongestDigitsPrefix.csproj.CoreCompileInputs.cache
+F:\Self-Learning\CodingPractise\LongestDigitsPrefix\LongestDigitsPrefix\obj\Debug\LongestDigitsPrefix.exe
+F:\Self-Learning\CodingPractise\LongestDigitsPrefix\LongestDigitsPrefix\obj\Debug\LongestDigitsPrefix.pdb

@@ -1,0 +1,7 @@
+F:\Self-Learning\CodingPractise\LineEncodingMethod\LineEncoding\bin\Debug\LineEncoding.exe.config
+F:\Self-Learning\CodingPractise\LineEncodingMethod\LineEncoding\bin\Debug\LineEncoding.exe
+F:\Self-Learning\CodingPractise\LineEncodingMethod\LineEncoding\bin\Debug\LineEncoding.pdb
+F:\Self-Learning\CodingPractise\LineEncodingMethod\LineEncoding\obj\Debug\LineEncoding.csprojAssemblyReference.cache
+F:\Self-Learning\CodingPractise\LineEncodingMethod\LineEncoding\obj\Debug\LineEncoding.csproj.CoreCompileInputs.cache
+F:\Self-Learning\CodingPractise\LineEncodingMethod\LineEncoding\obj\Debug\LineEncoding.exe
+F:\Self-Learning\CodingPractise\LineEncodingMethod\LineEncoding\obj\Debug\LineEncoding.pdb

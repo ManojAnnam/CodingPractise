@@ -1,0 +1,7 @@
+F:\Self-Learning\CodingPractise\BuildPalindrome\AddCharactersForPalindromeMaking\bin\Debug\AddCharactersForPalindromeMaking.exe.config
+F:\Self-Learning\CodingPractise\BuildPalindrome\AddCharactersForPalindromeMaking\bin\Debug\AddCharactersForPalindromeMaking.exe
+F:\Self-Learning\CodingPractise\BuildPalindrome\AddCharactersForPalindromeMaking\bin\Debug\AddCharactersForPalindromeMaking.pdb
+F:\Self-Learning\CodingPractise\BuildPalindrome\AddCharactersForPalindromeMaking\obj\Debug\AddCharactersForPalindromeMaking.csprojAssemblyReference.cache
+F:\Self-Learning\CodingPractise\BuildPalindrome\AddCharactersForPalindromeMaking\obj\Debug\AddCharactersForPalindromeMaking.csproj.CoreCompileInputs.cache
+F:\Self-Learning\CodingPractise\BuildPalindrome\AddCharactersForPalindromeMaking\obj\Debug\AddCharactersForPalindromeMaking.exe
+F:\Self-Learning\CodingPractise\BuildPalindrome\AddCharactersForPalindromeMaking\obj\Debug\AddCharactersForPalindromeMaking.pdb

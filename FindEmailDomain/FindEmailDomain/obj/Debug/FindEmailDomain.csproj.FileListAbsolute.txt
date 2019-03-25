@@ -1,0 +1,7 @@
+F:\Self-Learning\CodingPractise\FindEmailDomain\FindEmailDomain\bin\Debug\FindEmailDomain.exe.config
+F:\Self-Learning\CodingPractise\FindEmailDomain\FindEmailDomain\bin\Debug\FindEmailDomain.exe
+F:\Self-Learning\CodingPractise\FindEmailDomain\FindEmailDomain\bin\Debug\FindEmailDomain.pdb
+F:\Self-Learning\CodingPractise\FindEmailDomain\FindEmailDomain\obj\Debug\FindEmailDomain.csproj.CoreCompileInputs.cache
+F:\Self-Learning\CodingPractise\FindEmailDomain\FindEmailDomain\obj\Debug\FindEmailDomain.exe
+F:\Self-Learning\CodingPractise\FindEmailDomain\FindEmailDomain\obj\Debug\FindEmailDomain.pdb
+F:\Self-Learning\CodingPractise\FindEmailDomain\FindEmailDomain\obj\Debug\FindEmailDomain.csprojAssemblyReference.cache

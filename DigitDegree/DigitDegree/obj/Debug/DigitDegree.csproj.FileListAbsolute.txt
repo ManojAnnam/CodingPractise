@@ -1,0 +1,7 @@
+F:\Self-Learning\CodingPractise\DigitDegree\DigitDegree\bin\Debug\DigitDegree.exe.config
+F:\Self-Learning\CodingPractise\DigitDegree\DigitDegree\bin\Debug\DigitDegree.exe
+F:\Self-Learning\CodingPractise\DigitDegree\DigitDegree\bin\Debug\DigitDegree.pdb
+F:\Self-Learning\CodingPractise\DigitDegree\DigitDegree\obj\Debug\DigitDegree.csprojResolveAssemblyReference.cache
+F:\Self-Learning\CodingPractise\DigitDegree\DigitDegree\obj\Debug\DigitDegree.csproj.CoreCompileInputs.cache
+F:\Self-Learning\CodingPractise\DigitDegree\DigitDegree\obj\Debug\DigitDegree.exe
+F:\Self-Learning\CodingPractise\DigitDegree\DigitDegree\obj\Debug\DigitDegree.pdb

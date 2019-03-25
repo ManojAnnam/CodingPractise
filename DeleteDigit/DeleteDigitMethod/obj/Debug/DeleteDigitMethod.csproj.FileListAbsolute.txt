@@ -1,0 +1,7 @@
+F:\Self-Learning\CodingPractise\DeleteDigit\DeleteDigitMethod\bin\Debug\DeleteDigitMethod.exe.config
+F:\Self-Learning\CodingPractise\DeleteDigit\DeleteDigitMethod\bin\Debug\DeleteDigitMethod.exe
+F:\Self-Learning\CodingPractise\DeleteDigit\DeleteDigitMethod\bin\Debug\DeleteDigitMethod.pdb
+F:\Self-Learning\CodingPractise\DeleteDigit\DeleteDigitMethod\obj\Debug\DeleteDigitMethod.csprojAssemblyReference.cache
+F:\Self-Learning\CodingPractise\DeleteDigit\DeleteDigitMethod\obj\Debug\DeleteDigitMethod.csproj.CoreCompileInputs.cache
+F:\Self-Learning\CodingPractise\DeleteDigit\DeleteDigitMethod\obj\Debug\DeleteDigitMethod.exe
+F:\Self-Learning\CodingPractise\DeleteDigit\DeleteDigitMethod\obj\Debug\DeleteDigitMethod.pdb

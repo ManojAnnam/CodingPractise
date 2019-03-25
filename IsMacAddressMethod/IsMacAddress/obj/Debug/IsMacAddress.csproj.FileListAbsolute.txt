@@ -1,0 +1,7 @@
+F:\Self-Learning\CodingPractise\IsMacAddressMethod\IsMacAddress\bin\Debug\IsMacAddress.exe.config
+F:\Self-Learning\CodingPractise\IsMacAddressMethod\IsMacAddress\bin\Debug\IsMacAddress.exe
+F:\Self-Learning\CodingPractise\IsMacAddressMethod\IsMacAddress\bin\Debug\IsMacAddress.pdb
+F:\Self-Learning\CodingPractise\IsMacAddressMethod\IsMacAddress\obj\Debug\IsMacAddress.csprojAssemblyReference.cache
+F:\Self-Learning\CodingPractise\IsMacAddressMethod\IsMacAddress\obj\Debug\IsMacAddress.csproj.CoreCompileInputs.cache
+F:\Self-Learning\CodingPractise\IsMacAddressMethod\IsMacAddress\obj\Debug\IsMacAddress.exe
+F:\Self-Learning\CodingPractise\IsMacAddressMethod\IsMacAddress\obj\Debug\IsMacAddress.pdb

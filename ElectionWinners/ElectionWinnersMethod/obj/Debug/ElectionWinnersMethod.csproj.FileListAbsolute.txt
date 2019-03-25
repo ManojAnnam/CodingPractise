@@ -1,0 +1,7 @@
+F:\Self-Learning\CodingPractise\ElectionWinners\ElectionWinnersMethod\bin\Debug\ElectionWinnersMethod.exe.config
+F:\Self-Learning\CodingPractise\ElectionWinners\ElectionWinnersMethod\bin\Debug\ElectionWinnersMethod.exe
+F:\Self-Learning\CodingPractise\ElectionWinners\ElectionWinnersMethod\bin\Debug\ElectionWinnersMethod.pdb
+F:\Self-Learning\CodingPractise\ElectionWinners\ElectionWinnersMethod\obj\Debug\ElectionWinnersMethod.csprojAssemblyReference.cache
+F:\Self-Learning\CodingPractise\ElectionWinners\ElectionWinnersMethod\obj\Debug\ElectionWinnersMethod.csproj.CoreCompileInputs.cache
+F:\Self-Learning\CodingPractise\ElectionWinners\ElectionWinnersMethod\obj\Debug\ElectionWinnersMethod.exe
+F:\Self-Learning\CodingPractise\ElectionWinners\ElectionWinnersMethod\obj\Debug\ElectionWinnersMethod.pdb

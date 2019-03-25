@@ -1,0 +1,7 @@
+F:\Self-Learning\CodingPractise\IsDigitOnly\IsDigit\bin\Debug\IsDigit.exe.config
+F:\Self-Learning\CodingPractise\IsDigitOnly\IsDigit\bin\Debug\IsDigit.exe
+F:\Self-Learning\CodingPractise\IsDigitOnly\IsDigit\bin\Debug\IsDigit.pdb
+F:\Self-Learning\CodingPractise\IsDigitOnly\IsDigit\obj\Debug\IsDigit.csprojAssemblyReference.cache
+F:\Self-Learning\CodingPractise\IsDigitOnly\IsDigit\obj\Debug\IsDigit.csproj.CoreCompileInputs.cache
+F:\Self-Learning\CodingPractise\IsDigitOnly\IsDigit\obj\Debug\IsDigit.exe
+F:\Self-Learning\CodingPractise\IsDigitOnly\IsDigit\obj\Debug\IsDigit.pdb

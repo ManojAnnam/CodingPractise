@@ -1,0 +1,7 @@
+F:\Self-Learning\CodingPractise\IsBeautifulString\IsBeautifulString\bin\Debug\IsBeautifulString.exe.config
+F:\Self-Learning\CodingPractise\IsBeautifulString\IsBeautifulString\bin\Debug\IsBeautifulString.exe
+F:\Self-Learning\CodingPractise\IsBeautifulString\IsBeautifulString\bin\Debug\IsBeautifulString.pdb
+F:\Self-Learning\CodingPractise\IsBeautifulString\IsBeautifulString\obj\Debug\IsBeautifulString.csprojResolveAssemblyReference.cache
+F:\Self-Learning\CodingPractise\IsBeautifulString\IsBeautifulString\obj\Debug\IsBeautifulString.csproj.CoreCompileInputs.cache
+F:\Self-Learning\CodingPractise\IsBeautifulString\IsBeautifulString\obj\Debug\IsBeautifulString.exe
+F:\Self-Learning\CodingPractise\IsBeautifulString\IsBeautifulString\obj\Debug\IsBeautifulString.pdb

@@ -1,0 +1,7 @@
+C:\Users\Manoj\source\repos\ChessKnight\ChessKnightDirections\bin\Debug\ChessKnightDirections.exe.config
+C:\Users\Manoj\source\repos\ChessKnight\ChessKnightDirections\bin\Debug\ChessKnightDirections.exe
+C:\Users\Manoj\source\repos\ChessKnight\ChessKnightDirections\bin\Debug\ChessKnightDirections.pdb
+C:\Users\Manoj\source\repos\ChessKnight\ChessKnightDirections\obj\Debug\ChessKnightDirections.csprojAssemblyReference.cache
+C:\Users\Manoj\source\repos\ChessKnight\ChessKnightDirections\obj\Debug\ChessKnightDirections.csproj.CoreCompileInputs.cache
+C:\Users\Manoj\source\repos\ChessKnight\ChessKnightDirections\obj\Debug\ChessKnightDirections.exe
+C:\Users\Manoj\source\repos\ChessKnight\ChessKnightDirections\obj\Debug\ChessKnightDirections.pdb

@@ -1,0 +1,7 @@
+F:\Self-Learning\CodingPractise\LongestString\LongestString\bin\Debug\LongestString.exe.config
+F:\Self-Learning\CodingPractise\LongestString\LongestString\bin\Debug\LongestString.exe
+F:\Self-Learning\CodingPractise\LongestString\LongestString\bin\Debug\LongestString.pdb
+F:\Self-Learning\CodingPractise\LongestString\LongestString\obj\Debug\LongestString.csprojAssemblyReference.cache
+F:\Self-Learning\CodingPractise\LongestString\LongestString\obj\Debug\LongestString.csproj.CoreCompileInputs.cache
+F:\Self-Learning\CodingPractise\LongestString\LongestString\obj\Debug\LongestString.exe
+F:\Self-Learning\CodingPractise\LongestString\LongestString\obj\Debug\LongestString.pdb
